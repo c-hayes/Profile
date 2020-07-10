@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /*css reset*/
 *{
   margin: 0;
@@ -16,11 +15,7 @@ body, html {
   min-height : 100%;
   font: normal 16px/1.5em Calibri, Helvetica, sans-serif;
   text-shadow: .2rem .1rem .3rem black;
-  background:linear-gradient(rgb(57, 69, 69), rgb(159, 175, 175));
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url("/img/bkg-1200.jpg");
-  background-attachment: scroll;
+  background:linear-gradient(rgb(57, 69, 69), rgb(159, 175, 175)) url(/img/bkg-1200.jpg) no-repeat scroll cover ; 
   } 
 
 /* Media Queries */
